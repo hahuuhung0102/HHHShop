@@ -1,0 +1,14 @@
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Data\bin\Debug\HHHShop.Data.dll
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Data\bin\Debug\HHHShop.Data.pdb
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Data\obj\Debug\HHHShop.Data.csprojAssemblyReference.cache
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Data\obj\Debug\HHHShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Data\obj\Debug\HHHShop.Data.dll
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Data\obj\Debug\HHHShop.Data.pdb
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Data\bin\Debug\HHHShop.Data.dll.config
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Data\bin\Debug\EntityFramework.dll
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Data\bin\Debug\HHHShop.Common.dll
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Data\bin\Debug\HHHShop.Common.pdb
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Data\bin\Debug\EntityFramework.xml
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Data\obj\Debug\HHHShop.Data.csproj.CopyComplete

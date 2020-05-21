@@ -1,0 +1,15 @@
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Service\bin\Debug\HHHShop.Service.dll
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Service\bin\Debug\HHHShop.Service.pdb
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Service\obj\Debug\HHHShop.Service.csprojAssemblyReference.cache
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Service\obj\Debug\HHHShop.Service.csproj.CoreCompileInputs.cache
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Service\obj\Debug\HHHShop.Service.dll
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Service\obj\Debug\HHHShop.Service.pdb
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Service\bin\Debug\HHHShop.Common.dll
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Service\bin\Debug\HHHShop.Data.dll
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Service\bin\Debug\HHHShop.Model.dll
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Service\bin\Debug\HHHShop.Common.pdb
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Service\bin\Debug\HHHShop.Data.pdb
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Service\bin\Debug\HHHShop.Data.dll.config
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Service\bin\Debug\HHHShop.Model.pdb
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Service\bin\Debug\HHHShop.Model.dll.config
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Service\obj\Debug\HHHShop.Service.csproj.CopyComplete

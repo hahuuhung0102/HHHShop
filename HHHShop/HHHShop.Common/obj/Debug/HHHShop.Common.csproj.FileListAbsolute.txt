@@ -1,0 +1,6 @@
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Common\bin\Debug\HHHShop.Common.dll
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Common\bin\Debug\HHHShop.Common.pdb
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Common\obj\Debug\HHHShop.Common.csprojAssemblyReference.cache
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Common\obj\Debug\HHHShop.Common.csproj.CoreCompileInputs.cache
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Common\obj\Debug\HHHShop.Common.dll
+C:\Users\ha huu hung\Desktop\LapTrinhWeb_Angular\HHHShop\HHHShop.Common\obj\Debug\HHHShop.Common.pdb
